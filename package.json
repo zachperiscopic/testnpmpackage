@@ -1,0 +1,22 @@
+{
+  "name": "testnpmpackage",
+  "version": "0.1.0",
+  "description": "Testing npm package making",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zachperiscopic/testnpmpackage.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Zach Bogart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zachperiscopic/testnpmpackage/issues"
+  },
+  "homepage": "https://github.com/zachperiscopic/testnpmpackage#readme"
+}
